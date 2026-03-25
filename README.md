@@ -40,9 +40,8 @@ Here are some of my favorite projects. Click on them to explore further:
 
 ## 🔗 Let's Connect
 
-- 💼 [LinkedIn](your-linkedin-url)
-- 🐦 [Twitter](your-twitter-url)
-- 📧 [Email](mailto:your-email@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gauravpal95/)
+- 📧 [Email](palgaurav641.com)
 - 🌐 [Personal Website](your-website-url)
 
 ## 📝 Latest Blogs & Articles
