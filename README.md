@@ -41,7 +41,7 @@ Here are some of my favorite projects. Click on them to explore further:
 ## 🔗 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gauravpal95/)
-- 📧 [Email](palgaurav641@gmail.com)
+- 📧 Email:[palgaurav641@gmail.com](mailto:palgaurav641@gmail.com)
 - 🌐 [Personal Website](your-website-url)
 
 ## 📝 Latest Blogs & Articles
